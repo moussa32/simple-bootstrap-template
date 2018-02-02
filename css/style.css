@@ -1,0 +1,47 @@
+body{
+  outline: none !important;
+}
+.custome-carousel-item{
+  height: 500px;
+}
+.custome-angle{
+  font-size: 50px;
+}
+.custome-carousel-caption{
+  padding-top: 55px;
+  padding-bottom: 55px;
+}
+.section{
+  padding-top:15px;
+}
+.sectione{
+  padding-left: 15px;
+  padding-right:15px;
+}
+.custome-carousel-item-sm{
+  height: 120px;
+}
+.custome-card-body-lg{
+  padding:50px;
+}
+.custome-card-body{
+  border-top:1px solid rgba(0, 0, 0, 0.125);
+}
+.custome-card-link{
+  background: #dfdfdf;
+  padding: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 15px;
+  margin-left:0px !important;
+}
+.footer{
+  padding:25px;
+  background-color: #f5f5f5;
+}
+.down-footer{
+  padding-top:25px;
+}
+.social-links{
+  text-align: right;
+}
